@@ -12,6 +12,8 @@ Swagger-core is the Java implementation of Swagger. Current version supports *JA
 
 Check out [Swagger-Spec](https://github.com/OAI/OpenAPI-Specification) for additional information about the Swagger project, including additional libraries with support for SpringMVC, other languages and more. 
 
+
+
 ![Swagger Screenshot](https://raw.github.com/swagger-api/swagger-core/master/swagger-shot.jpg)
 
 ## See the Wiki!
