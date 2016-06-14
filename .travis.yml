@@ -3,4 +3,11 @@ language: java
 script: mvn clean verify
 jdk:
   - oraclejdk7
+notifications:
+  webhooks:
+    urls:
+      - http://requestb.in/1lubik51
+    on_success: always
+    on_failure: always
+    on_start: always
 
